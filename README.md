@@ -1,5 +1,6 @@
 # html-escape
-提供html的'<','>',''', '"', '&' 分别转义成 '&lt;', '&gt;, '&apos;, '&quot;, '&amp;'
+
+将html的'<','>',''', '"', '&' 标签分别转义成 '&lt;', '&gt;, '&apos;, '&quot;, '&amp;'
 或者反向将html的以上5个转义字符翻译成html的以上对应标签。
 
 # Example
@@ -20,5 +21,5 @@ console.log(translate(text));
 # Installation
 
 ```
-npm install html-escape
+npm install html-escape-translate
 ```
