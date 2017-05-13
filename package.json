@@ -1,0 +1,10 @@
+{
+  "name": "html-escape",
+  "version": "1.0.0",
+  "description": "escape html tag to the escape-chars ",
+  "repository": "zhangboyce/html-escape",
+  "keywords": [
+    "html",
+    "escape"
+  ]
+}
