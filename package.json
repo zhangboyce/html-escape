@@ -1,6 +1,6 @@
 {
   "name": "html-escape-translate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "escape html tag to the escape-chars ",
   "repository": "zhangboyce/html-escape",
   "keywords": [
